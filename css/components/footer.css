@@ -1,0 +1,28 @@
+.social {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  letter-spacing: 50px;
+}
+
+.footer {
+  text-align: center;
+  background-color: #283D3B;
+  padding: 50px;
+}
+
+.social a {
+  color: #DDE0BD;
+  transition: all 2s;
+}
+
+.social a:hover {
+  font-size: xxx-large;
+  color: #283D3B;
+}
+
+.footer p {
+  font-family: 'Great Vibes', cursive;
+  font-size: xx-large;
+}

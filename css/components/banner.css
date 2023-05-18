@@ -1,0 +1,22 @@
+.banner {
+  background-image: url("/images/logo.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  padding: 50px;
+}
+
+.banner h1, .banner p {
+  padding: 20px;
+  text-align: left;
+  text-shadow: 1px 1px 3px rgb(71, 71, 71);
+}
+
+.banner h1 {
+  font-size: xxxxx-large;
+}
+
+.banner p {
+  font-family: 'Great Vibes', cursive;
+  font-size: xx-large;
+}
