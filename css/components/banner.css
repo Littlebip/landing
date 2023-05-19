@@ -1,5 +1,5 @@
 .banner {
-  background-image: url("images/logo.jpg");
+  background-image: url("/landing/images/logo.jpg");
   background-size: cover;
   background-position: center;
   height: 400px;

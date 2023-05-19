@@ -6,11 +6,11 @@
 @import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
 
 /* Component CSS files */
-@import url(/css/components/banner.css);
-@import url(/css/components/footer.css);
-@import url(/css/components/button.css);
-@import url(/css/components/card.css);
-@import url(/css/components/container.css);
+@import url("./components/banner.css");
+@import url("./components/footer.css");
+@import url("./components/button.css");
+@import url("./components/card.css");
+@import url("./components/container.css");
 
 /* Utilities */
 body {
